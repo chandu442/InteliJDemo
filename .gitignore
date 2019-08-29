@@ -1,0 +1,23 @@
+
+# cimpiled class files
+*.class
+
+#log file
+*.log
+
+
+#package Files #
+*.jar
+*.ear
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+InteliDemo.iml
+
+.idea
+
+.gitignore
+
+InteliJDemo.iml
