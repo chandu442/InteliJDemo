@@ -6,5 +6,8 @@ public class Main {
 	// write your code here
 
         System.out.println("welcome to java world");
+
+        System.out.println("second line adding");
+
     }
 }
